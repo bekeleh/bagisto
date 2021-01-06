@@ -167,16 +167,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.171.10",
+            "version": "3.171.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "ba12cbba6b7ae8f2aab741e5ac47e8bb30d3eac7"
+                "reference": "2a575d8336a6005fcd7b8c3d54783ee5ddc3ceac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/ba12cbba6b7ae8f2aab741e5ac47e8bb30d3eac7",
-                "reference": "ba12cbba6b7ae8f2aab741e5ac47e8bb30d3eac7",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/2a575d8336a6005fcd7b8c3d54783ee5ddc3ceac",
+                "reference": "2a575d8336a6005fcd7b8c3d54783ee5ddc3ceac",
                 "shasum": ""
             },
             "require": {
@@ -251,22 +251,22 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.171.10"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.171.12"
             },
-            "time": "2020-12-31T19:13:37+00:00"
+            "time": "2021-01-05T19:12:58+00:00"
         },
         {
             "name": "babenkoivan/elastic-adapter",
-            "version": "v1.9.0",
+            "version": "v1.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/babenkoivan/elastic-adapter.git",
-                "reference": "e9e984e6d171235219d99b29992e3a001d5551b4"
+                "reference": "262a15835101e26a47a543fc6d30927751b502af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/babenkoivan/elastic-adapter/zipball/e9e984e6d171235219d99b29992e3a001d5551b4",
-                "reference": "e9e984e6d171235219d99b29992e3a001d5551b4",
+                "url": "https://api.github.com/repos/babenkoivan/elastic-adapter/zipball/262a15835101e26a47a543fc6d30927751b502af",
+                "reference": "262a15835101e26a47a543fc6d30927751b502af",
                 "shasum": ""
             },
             "require": {
@@ -304,9 +304,9 @@
             ],
             "support": {
                 "issues": "https://github.com/babenkoivan/elastic-adapter/issues",
-                "source": "https://github.com/babenkoivan/elastic-adapter/tree/v1.9.0"
+                "source": "https://github.com/babenkoivan/elastic-adapter/tree/v1.10.0"
             },
-            "time": "2020-11-14T15:09:00+00:00"
+            "time": "2021-01-05T11:10:37+00:00"
         },
         {
             "name": "babenkoivan/elastic-client",
@@ -2568,16 +2568,16 @@
         },
         {
             "name": "laravel/scout",
-            "version": "v8.5.2",
+            "version": "v8.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/scout.git",
-                "reference": "ece6758b82c51ff7f5e011f243a7c6b33711a847"
+                "reference": "3cb9a6e66f58f61ed1adf66c138034e496c60d3f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/scout/zipball/ece6758b82c51ff7f5e011f243a7c6b33711a847",
-                "reference": "ece6758b82c51ff7f5e011f243a7c6b33711a847",
+                "url": "https://api.github.com/repos/laravel/scout/zipball/3cb9a6e66f58f61ed1adf66c138034e496c60d3f",
+                "reference": "3cb9a6e66f58f61ed1adf66c138034e496c60d3f",
                 "shasum": ""
             },
             "require": {
@@ -2633,7 +2633,7 @@
                 "issues": "https://github.com/laravel/scout/issues",
                 "source": "https://github.com/laravel/scout"
             },
-            "time": "2020-12-30T15:52:14+00:00"
+            "time": "2021-01-05T16:53:44+00:00"
         },
         {
             "name": "laravel/socialite",
